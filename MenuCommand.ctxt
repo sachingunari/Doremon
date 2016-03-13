@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ execute()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ MenuCommand\r\n
+comment1.params=t
+comment1.target=void\ setReceiver(IMenuReceiver)
+numComments=2

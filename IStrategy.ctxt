@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=x\ y\ a\ world
+comment0.target=void\ move(int,\ int,\ greenfoot.Actor,\ greenfoot.World)
+numComments=1
